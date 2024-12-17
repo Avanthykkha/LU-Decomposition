@@ -55,7 +55,6 @@ RegisterNumber: 24006077
 ## Output:
 ![Screenshot 2024-12-02 110236](https://github.com/user-attachments/assets/e6ef14e2-6d91-46dd-8fff-7c457f8a9b45)
 
-![lu decomposition]()
 
 ![Screenshot 2024-12-02 110305](https://github.com/user-attachments/assets/aa4ad37e-a67a-4f73-8e11-b17a58b63171)
 
